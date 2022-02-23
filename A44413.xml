@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The parsons case under the present land-tax recommended in a letter to a member of the House of Commons</title>
+            <author>Hooper, George, 1640-1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44413</idno>
+            <idno type="STC">Wing H2704</idno>
+            <idno type="STC">ESTC R4404</idno>
+            <idno type="EEBO-CITATION">13469900</idno>
+            <idno type="OCLC">ocm 13469900</idno>
+            <idno type="VID">99673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99673)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 790:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The parsons case under the present land-tax recommended in a letter to a member of the House of Commons</title>
+                  <author>Hooper, George, 1640-1727.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by George Hooper.  Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Real property tax --  England --  Early works to 1800.</term>
+               <term>Real property tax --  Early works to 1800.</term>
+               <term>Church lands --  England --  Early works to 1800.</term>
+               <term>Church lands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99673:1"/>
+            <p>THE PARSONS CASE UNDER THE <hi>Preſent Land-Tax,</hi> Recommended in A LETTER To a Member of the Houſe of Commons.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99673:2"/>
+            <pb n="1" facs="tcp:99673:2" rendition="simple:additions"/>
+            <head>The Parſon's Caſe under the Preſent Land-Tax, recommended in a Letter to a Member of the Houſe of Commons.</head>
+            <p>IN our laſt Converſation, you may remember, the Diſ<g ref="char:EOLhyphen"/>courſe happened at length upon a mention of the Ine<g ref="char:EOLhyphen"/>quality, I ſuppoſed, the Parochial Clergy ſuffered un<g ref="char:EOLhyphen"/>der the preſent Land-Tax. This conſideration, you were pleaſed to ſay, was new to you; and which you would not be unwilling to ſee in its True State.</p>
+            <p>This then I take to be the Caſe.</p>
+            <p n="1">I. Parſonages or Vicariges with Cure, though equally Freehold by Law, are in this to be diſtinguiſhed from Im<g ref="char:EOLhyphen"/>propriations; that they have, by the Tenure, an Office an<g ref="char:EOLhyphen"/>nexed to them. Which Office is ſo ſacred, and has been by our Law ſo much regarded, that the Tenure was therefore erected free from all other Services, and Temporal Incum<g ref="char:EOLhyphen"/>brances whatſoever.</p>
+            <p n="2">II. This Office, though it be not allowed ſtill to Priviledge its whole Revenue; yet continues to require a certain Ex<g ref="char:EOLhyphen"/>pence, for the Neceſſary Support and Maintenance of the Perſon officiating, without which it cannot be executed. He is to be allowed Meat, and Drink, and Cloths, for him<g ref="char:EOLhyphen"/>ſelf; if not for a Family. Now this Allowance is, I conceive, to be reckoned by any Chriſtian Kingdom, and particularly by the Courſe of Ours, to the Account of the Office, and not of the Perſon: And he is not to be preſumed, to have any thing to ſpare for other Publick Charges, out of that, which is but juſt neceſſary to the Execution of his own. This ſeems reaſonable of it ſelf, but will appear more equi<g ref="char:EOLhyphen"/>table yet, by that which follows. For,</p>
+            <pb n="2" facs="tcp:99673:3"/>
+            <p n="3">III. The ſame conſideration, which is here deſired for the Country Miniſtry, is already given to all their Neigh<g ref="char:EOLhyphen"/>bourhood. An Eſtate let to a Farmer, pays only for the Rent; that is, for the Revenue remaining after the Dedu<g ref="char:EOLhyphen"/>ction, not only of the Maintenance of the Farmer and his Family, but of the competent Gain, allowed him for his Pains towards future Proviſion. And ſo an Eſtate in the hands of a Yeoman Proprietor, firſt bears the Charge of the Occupancy, and affords ſome accruing Profit beſides for Labor and Induſtry; and then afterwards is taxed for the Reſidue. An Eſtate too in the hands of a Gentleman Owner, muſt be judged to bring in the ſame Advantage, if the ſame Diligence and Application be uſed.</p>
+            <p n="4">IV. If then all Occupants of Land, whether Renters or Owners, are in conſideration of the common good ſo much regarded by the Publick, as to have allowed them, not only their Competence of Livelyhood, but a further Encourage<g ref="char:EOLhyphen"/>ment for the Sweat of their Brows, before they come to be aſſeſſed to other Uſes: It cannot but be reaſonable, that the Miniſter of the Pariſh, who is in the mean time joyntly im<g ref="char:EOLhyphen"/>ployed, on a Duty as neceſſary certainly, and as much to be incouraged by the Publick, ſhould likewiſe have the ſame equitable Favor ſhewed him, at leaſt the ſame neceſſary Al<g ref="char:EOLhyphen"/>lowance made. And this you know is nothing more, than what St. <hi>Paul</hi> directs from the Benignity of the Jewiſh Law,
+<note place="margin">1 <hi>Corinth.</hi> 9. ch.</note> which ſuffered not the <hi>Mouth of the Ox to be muzled that trod the Corn:</hi> that, as other Husbandmen have not the Bread which is to feed them, excis'd out of their Mouths; ſo the <hi>Sowers of Spiritu<g ref="char:EOLhyphen"/>als,</hi> and the Labourers in the Goſpel, ſhould <hi>live</hi> alike free <hi>of the Goſpel,</hi> and not be refuſed the common Priviledge: Or, that as <hi>Soldiers go not to War at their own Charge;</hi> ſo the ne<g ref="char:EOLhyphen"/>ceſſary Wages of the Miniſters ſhould not go to the Soldi<g ref="char:EOLhyphen"/>ers Pay.</p>
+            <p n="5">V. Theſe things being premiſed, the <hi>Exceptions</hi> you men<g ref="char:EOLhyphen"/>tioned will have no place. The <hi>firſt,</hi> as I remember, was, that if the Miniſter will take his Living into his hands, he may have his priviledged Gain too. The <hi>ſecond,</hi> that how<g ref="char:EOLhyphen"/>ever he is but in the Caſe of a Gentleman who lives upon his Rents.</p>
+            <pb n="3" facs="tcp:99673:3" rendition="simple:additions"/>
+            <p>As to the <hi>firſt,</hi> I ſhall not ſtand upon a difference, all Im<g ref="char:EOLhyphen"/>propriators know; that a Tenant is not as profitably im<g ref="char:EOLhyphen"/>ployed for a yearly Maintenance, upon the Tithes of a Hundred Pound, as he is upon a quarter of the Land: But only intreat you to conſider, that I am not craving an Al<g ref="char:EOLhyphen"/>lowance to him for ſuch kind of Pains; there is another ſort of Care, you expect from him; and this farmerly Induſtry, I preſume, you would rather diſcourage. Beſides a Scholar, and Bookiſh man, will rather loſe this way, than get: For if Gentlemen make not their Rent by their own Manage<g ref="char:EOLhyphen"/>ment, a Miniſter hardly will.</p>
+            <p>As to the <hi>ſecond,</hi> you will be pleaſed to remember that the Parſons are in the condition of the Husbandman, and not of the Landlord. For they are <hi>Aſcripti Glebae;</hi> and fixed down, together with the Countryman, to a continual At<g ref="char:EOLhyphen"/>tendance upon their Function. They are not at their Li<g ref="char:EOLhyphen"/>berty, as thoſe Others are, who either enjoying their Eaſe at their own Choice, cannot therefore impute it to the Pub<g ref="char:EOLhyphen"/>lick; or who being at large, may beſtow their Time and Labour in what other gainful Place or Profeſſion they ſhall think fit, without any contrary Obligation from the Reve<g ref="char:EOLhyphen"/>nue they receive. Whereas the Parſon is not only tyed to re<g ref="char:EOLhyphen"/>ſide, by himſelf or ſome other; but is be<g ref="char:EOLhyphen"/>ſides debarred,
+<note place="margin">21 <hi>Henr.</hi> 8. c. 13.</note> by the Temporal Law as well as the Eccleſiaſtical, from bettering his Livelyhood by any other Lucrative Imploy.</p>
+            <p>Beſides theſe Objections, there is another I have ſince met with, it is this; That Temporal Offices and Places are allow<g ref="char:EOLhyphen"/>ed no Deduction by this Act, and therefore the Spiritual cannot expect it.</p>
+            <p>This Objection, I believe, you did not propoſe, becauſe our Compariſon lay between a Parſon and an Impropriator, or between him and his own Country Pariſhioner; and for this reaſon I am not concerned in it. However a great dif<g ref="char:EOLhyphen"/>ference might be taken, from what has been already laid down, between theſe two Officers, if they will ſo term them, the Spiritual and the Temporal. For (1) the <hi>Tenure</hi> of the Parſon is not the ſame; being a Freehold, and in its own nature exempt. (2) His <hi>Office</hi> is ſacred, and the Service of God: and therefore as much to be priviledged, at leſt in
+<pb n="4" facs="tcp:99673:4"/>what ſhall be neceſſary to it, as the <hi>Military ſervice by Land or Sea.</hi> And (3) the Parſons are not in the ſame Condition; for the Civil Officer may, if he pleaſes, acting by a Deputy betake himſelf concurrently to any other Calling: But the Miniſter has not his Election, ſo much as to quit his Functi<g ref="char:EOLhyphen"/>on; and is prohibited from any other Vocation, ſhould he be willing upon any Hardſhip to reſign his Benefice. There are more differences might be alledged, why the ſpiritual Cures ſhould have a Deduction for the Execution; though the Civil Offices were ſo very ſeverely uſed, as to be brought into all Publick Payments, without the ſame reaſonable De<g ref="char:EOLhyphen"/>falcation. But I may rather ſuppoſe that ſuch Offices, if denyed by theſe later Acts the Allowance of Deduction (an Allowance expreſly granted them in that of <hi>Car.</hi>
+               <note place="margin">
+                  <hi>Ann.</hi> 22, 23.</note> 2. out of which theſe are copyed;) are therefore denied it, becauſe it was not thought unreaſonable, that thoſe Places ſhould upon ſome extraordi<g ref="char:EOLhyphen"/>nary Occaſion pay for the <hi>whole,</hi> which are known at other times <hi>wholly</hi> to eſcape all ordinary Charges, to all which in a manner (over and above Firſt Fruits and Tenths) the Clergy are conſtantly ſubjected. And I do too preſume, if ſuch Taxes are repeated, and the Civil Officers find not the favour to be relieved, either by expreſs Subſtraction, or by the equivalent of a Low Eſtimate; that then, as I now plead for the Parſons, there will ariſe ſome one that ſhall plead for them, on good it may be, but not on equal grounds.</p>
+            <p n="6">VI. From all this I think I may infer, That the Parſon has good reaſon to deſire, that deduction ſhould be made for his Cure, and that the remainder only ſhould be charged to the <hi>Land-Tax.</hi> Now this Deduction cannot be leſs, as we have ſeen, than what ſhall be adjudg'd ſufficient for the mainte<g ref="char:EOLhyphen"/>nance of his own Perſon, if not his Family too; and here regard ſhould be had to his Education, and Character; and the charge not only of Food and Rayment, but of Books, Charity, <hi>&amp;c.</hi> ought to come into the computation. But, that I may not ſeem unreaſonable in his behalf, I will Tax the competence by common Practice, and by the Expectati<g ref="char:EOLhyphen"/>of the Country, and ſhall demand no more for the Parſon, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n the Neighborhood, in caſe of his neceſſary abſence, world think fit to be allowed to a Curate. This aſſignment
+<pb n="5" facs="tcp:99673:4" rendition="simple:additions"/>I ſhall reckon to be generally about Forty pound a year: And you, I am ſure, would not take it well of your Rector, ſhould he not, in that Caſe, make a more liberal Allowance.</p>
+            <p n="7">VII. And now Sir, the Inequality I ſpoke of appears: For in your Rectors Caſe, whoſe Parſonage is valued at 160 <hi>
+                  <abbr>l.</abbr> per an.</hi> ſuppoſing that his and his neighbors Eſtates are equal<g ref="char:EOLhyphen"/>ly valued, (which you know they are not always;) yet, if he be rated without an Allocation for his Cure, He pays then a fourth part more, then ought in ſtrict and fair proportion to be charged upon him; that is, inſtead of every Ten ſhillings, he pays a Mark. But his Neighbor, whoſe Vicarige is reckon'd at 120 <abbr>
+                  <hi>l.</hi>
+               </abbr> is by the ſame ſuppoſition overcharg'd a Third, and muſt give his Fifteen ſhillings, for his Pariſhioners Ten. And were his Living worth but 80 <abbr>
+                  <hi>l.</hi>
+               </abbr> at the ſame way of rate<g ref="char:EOLhyphen"/>ing, he would be Aſſeſs'd too much by one half. This is the ſtate of the Caſe, as to particular Benefices; and conſequent<g ref="char:EOLhyphen"/>ly if you compute all the Cures of <hi>England</hi> to be worth 120 <hi>
+                  <abbr>l.</abbr> per an.</hi> one with another, (which is an eſtimate much too high;) the Incumbent Clergy, taken together, are by the premiſes Overrated a Third part, in the common courſe of Taxing.</p>
+            <p>This, <hi>SIR,</hi> is the Inequality, I undertook to lay before you; a task, I think I have made good; and now you may be pleas'd to undertake your part, and to become an Advocate in the Houſe for ſo Equitable a Cauſe. The Clergy, you know, when ever heretofore they Contributed to the Tem<g ref="char:EOLhyphen"/>poral Charge, in aſſiſtance of the Military Tenants, contri<g ref="char:EOLhyphen"/>buted at their own Diſcretion, and were rated by ſome of their own Body. Of late, ſince the diſcharge of the Milita<g ref="char:EOLhyphen"/>ry Tenure, they have been brought in to bear the Burden, thereby increas'd, in common, and are Aſſeſs'd too at the pleaſure of your Houſe: And as I hope, they will always be found in the true Intereſt of the Nation; ſo, as far as I hear, they are well pleas'd to be reckon'd with it, even in Pay<g ref="char:EOLhyphen"/>ments. But then, becauſe they are known to have no par<g ref="char:EOLhyphen"/>ticular Repreſentatives among you, and are incapable of be<g ref="char:EOLhyphen"/>ing Repreſentatives themſelves: The charge of them, ſeems to be as of ſo many Minors; and the Truſt to lie upon the Honor of your Houſe. Now upon the experience they have had in many places below, they think they have cauſe
+<pb n="6" facs="tcp:99673:5"/>to deſire, that being they themſelves are not thought fit to be Commiſſioners or Aſſeſſors, You above would be pleas'd to take them into your particular Care, at leaſt expreſs your Pleaſure concerning them ſo plainly, that it may not be dif<g ref="char:EOLhyphen"/>ferently underſtood, by the Hopes of one, and the Deter<g ref="char:EOLhyphen"/>minations of others; as it has been about the Quality of Curates in the Poll Tax, and about allowance for Repara<g ref="char:EOLhyphen"/>tions, <hi>&amp;c.</hi> lately. And when you do declare your Pleaſure for the future, it is to be hoped, that you will take the Equity of this Paper into your Conſideration. For tho' the Miniſters may be very willing to take their ſhare of the Pub<g ref="char:EOLhyphen"/>lick Burthens, and very Averſe from being found at this Time with any Complaint: Yet the Difference of a Quar<g ref="char:EOLhyphen"/>ter, or Third, (not to ſay of a Half,) is ſo conſiderable in moſt of their circumſtances; that they cannot be long in<g ref="char:EOLhyphen"/>ſenſible of the Inequality. If indeed this Inequality was as conſiderable to the Publick, as to them, they might then remain under it with ſome, ſatisfaction: But reckoning at large all the Country Cures to be 10000 and the Deduction conſequently to be 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr> where the whole Tax may be ſuppoſed 800000 <abbr>
+                  <hi>l.</hi>
+               </abbr> it is plain that the Layety ſave to them<g ref="char:EOLhyphen"/>ſelves by all this Diſparity but one in Forty, while the Cler<g ref="char:EOLhyphen"/>gy is overburdened by one in Three. This is all the gain of ſo exceſſive a diſproportion; but were it greater, yet I can<g ref="char:EOLhyphen"/>not but think it will be ſcorn'd by the Juſtice and Generoſity of that Great and Honorable Body; which has already, with a wiſe Liberality, expreſly provided for the Eaſe of thoſe places, in which men are Educated for the Miniſtry; and did not I preſume, intend leſs favour, to thoſe who are actually Laboring in the Charge. Nay, were there no pre<g ref="char:EOLhyphen"/>tence of Right, yet I cannot imagine, that the Noble Eng<g ref="char:EOLhyphen"/>liſh Nation would refuſe their Clergy ſo eaſie a Boon; while I conſider that the States of <hi>Holland</hi> themſelves, in all their Land and Perſonal Taxes, Aſſeſs not their Miniſtry a Penny, out of very competent Penſions, at the ſame time, when other Proprietors of the Country have paid already, before the year is out, Two thirds of their yearly Income.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
